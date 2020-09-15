@@ -1,0 +1,17 @@
+{
+  "name": "momotalk",
+  "version": "1.0.0",
+  "description": "Bespoke tool to edit text strings in Minky Momo for Famicom",
+  "main": "index.js",
+  "repository": "https://github.com/BillyWM/momotalk.git",
+  "author": "William Wenge-Murphy <billy@wenge-murphy.com>",
+  "license": "AGPL-3.0-or-later",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
